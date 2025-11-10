@@ -11,12 +11,13 @@
 ```
 network-programming-labs/
   lab1-http-api/      # Лабораторна робота №1 — HTTP, API, Telegram
+  lab2-flask-api/     # Лабораторна робота №2 — Flask, HTTP сервер, API НБУ
 ```
 
 Кожна лабораторна робота містить:
 - вихідні файли Python,  
 - зображення у теці `pictures/`,  
-- файл `lab1_report.md` або `README.md` із описом і звітом.
+- файл `README.md` із описом і звітом.
 
 ---
 
