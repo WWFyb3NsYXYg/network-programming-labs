@@ -13,6 +13,8 @@ network-programming-labs/
   lab1-http-api/      # Лабораторна робота №1 — HTTP, API, Telegram
   lab2-flask-api/     # Лабораторна робота №2 — Flask, HTTP сервер, API НБУ
   lab3-rest-api-flask-sqlite/   # Лабораторна робота №3 — REST API, Flask, JWT, SQLite
+  lab4-socket-programming/        # Лабораторна робота №4 — Socket API (TCP)
+
 ```
 
 Кожна лабораторна робота містить:
